@@ -15,7 +15,6 @@ Each track objects has the fields you would expect (`artist`, `title` etc).
 Here is an example of the entire document with all but the first song removed:
 
 ```json
-
 {
   "1": {
     "id": 1,
